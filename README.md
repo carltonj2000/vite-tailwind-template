@@ -16,3 +16,4 @@ After above:
   - mode: "jit"
   - purge: ["./index.html"]
 - in style.css add 3 lines @tailwind base/components/utilities
+- index.html add relative link to css file
